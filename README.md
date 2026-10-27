@@ -280,7 +280,7 @@ La práctica reforzó la importancia de aplicar una metodología sistemática de
 ### Conclusión General
 
 La práctica de laboratorio cumplió satisfactoriamente con los objetivos planteados, permitiendo consolidar los conocimientos teóricos sobre subneteo de redes Clase B mediante la implementación práctica. Además, el desafío encontrado con el Firewall de Windows proporcionó un aprendizaje adicional invaluable sobre la interacción entre la configuración de red y las políticas de seguridad del sistema operativo, preparando al estudiante para enfrentar escenarios reales en el ámbito profesional de la infraestructura de redes digitales.
-s
+
 
 ---
 
